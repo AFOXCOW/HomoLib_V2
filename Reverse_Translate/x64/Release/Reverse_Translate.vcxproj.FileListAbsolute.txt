@@ -1,0 +1,2 @@
+F:\ADO_rebuild\Reverse_Translate\x64\Release\Reverse_Translate.exe
+E:\ADO_rebuild\Reverse_Translate\x64\Release\Reverse_Translate.exe

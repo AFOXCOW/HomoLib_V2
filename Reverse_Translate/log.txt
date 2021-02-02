@@ -1,0 +1,162 @@
+Loading user`s Parameters
+Finished
+Processing Multiple Sequences Alignment
+
+
+In the 1-th Iteration:
+We Will Align:
+Sequence-10  
+Sequence-13  
+
+
+In the 2-th Iteration:
+We Will Align:
+Sequence-3  
+Sequence-15  
+
+
+In the 3-th Iteration:
+We Will Align:
+Sequence-7  
+Sequence-8  
+
+
+In the 4-th Iteration:
+We Will Align:
+Sequence-17  
+Sequence-18  
+
+
+In the 5-th Iteration:
+We Will Align:
+Sequence-11  
+Sequence-14  
+
+
+In the 6-th Iteration:
+We Will Align:
+Sequence-1  
+Sequence-4  
+
+
+In the 7-th Iteration:
+We Will Align:
+Sequence-2  
+Sequence-20  
+
+
+In the 8-th Iteration:
+We Will Align:
+Sequence-5  
+Sequence-7  Sequence-8  
+
+
+In the 9-th Iteration:
+We Will Align:
+Sequence-12  
+Sequence-11  Sequence-14  
+
+
+In the 10-th Iteration:
+We Will Align:
+Sequence-16  
+Sequence-17  Sequence-18  
+
+
+In the 11-th Iteration:
+We Will Align:
+Sequence-1  Sequence-4  
+Sequence-11  Sequence-12  Sequence-14  
+
+
+In the 12-th Iteration:
+We Will Align:
+Sequence-3  Sequence-15  
+Sequence-2  Sequence-20  
+
+
+In the 13-th Iteration:
+We Will Align:
+Sequence-5  Sequence-7  Sequence-8  
+Sequence-16  Sequence-17  Sequence-18  
+
+
+In the 14-th Iteration:
+We Will Align:
+Sequence-10  Sequence-13  
+Sequence-1  Sequence-4  Sequence-11  Sequence-12  Sequence-14  
+
+
+In the 15-th Iteration:
+We Will Align:
+Sequence-19  
+Sequence-5  Sequence-7  Sequence-8  Sequence-16  Sequence-17  Sequence-18  
+
+
+In the 16-th Iteration:
+We Will Align:
+Sequence-1  Sequence-4  Sequence-10  Sequence-11  Sequence-12  Sequence-13  Sequence-14  
+Sequence-5  Sequence-7  Sequence-8  Sequence-16  Sequence-17  Sequence-18  Sequence-19  
+
+
+In the 17-th Iteration:
+We Will Align:
+Sequence-9  
+Sequence-2  Sequence-3  Sequence-15  Sequence-20  
+
+
+In the 18-th Iteration:
+We Will Align:
+Sequence-0  
+Sequence-6  
+
+
+In the 19-th Iteration:
+We Will Align:
+Sequence-2  Sequence-3  Sequence-9  Sequence-15  Sequence-20  
+Sequence-0  Sequence-6  
+
+
+In the 20-th Iteration:
+We Will Align:
+Sequence-1  Sequence-4  Sequence-5  Sequence-7  Sequence-8  Sequence-10  Sequence-11  Sequence-12  Sequence-13  Sequence-14  Sequence-16  Sequence-17  Sequence-18  Sequence-19  
+Sequence-0  Sequence-2  Sequence-3  Sequence-6  Sequence-9  Sequence-15  Sequence-20  
+Finished
+MSA costs 91.532 s
+Reading Host Codon Frequency Table
+Finished
+Convert Protein to DNA.
+Finished.
+Reverse Transltation costs 0.072 s
+Read Restriction Sites Both From Database And also Custom Sites.
+Finished.
+Removing Restriction Sites
+Restriction Site Count of Seq 0: 2
+Restriction Site Count of Seq 1: 1
+Restriction Site Count of Seq 2: 2
+Restriction Site Count of Seq 3: 2
+Restriction Site Count of Seq 4: 1
+Restriction Site Count of Seq 5: 2
+Restriction Site Count of Seq 6: 1
+Restriction Site Count of Seq 7: 2
+Restriction Site Count of Seq 8: 2
+Restriction Site Count of Seq 9: 1
+Restriction Site Count of Seq 10: 1
+Restriction Site Count of Seq 11: 1
+Restriction Site Count of Seq 12: 1
+Restriction Site Count of Seq 13: 1
+Restriction Site Count of Seq 14: 1
+Restriction Site Count of Seq 15: 2
+Restriction Site Count of Seq 16: 2
+Restriction Site Count of Seq 17: 2
+Restriction Site Count of Seq 18: 2
+Restriction Site Count of Seq 19: 2
+Restriction Site Count of Seq 20: 1
+Finished.
+Removing Restriction Site costs 0.03 s
+Save to file
+Finished
+Mail to user
+success
+Finished
+Total program costs 96.572 s

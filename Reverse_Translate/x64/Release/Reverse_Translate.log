@@ -1,0 +1,51 @@
+﻿  AAs2DNA.cpp
+E:\ADO_rebuild\AAs2DNA\AAs2DNA.cpp(196,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Amino_Acid_Table.cpp
+E:\ADO_rebuild\Amino_Acid_Table\Amino_Acid_Table.cpp(43,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\ADO_rebuild\Amino_Acid_Table\Amino_Acid_Table.cpp(67,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  DataBase.cpp
+  MSA.cpp
+E:\ADO_rebuild\MSA\MSA.cpp(12,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(14,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(25,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(85,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(91,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(261,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(267,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Remove_ResSite.cpp
+E:\ADO_rebuild\Remove_RestrictionSite\Remove_ResSite.cpp(29,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Remove_RestrictionSite\Remove_ResSite.cpp(72,33): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\ADO_rebuild\Remove_RestrictionSite\Remove_ResSite.cpp(73,38): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\ADO_rebuild\Remove_RestrictionSite\Remove_ResSite.cpp(174,145): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Remove_RestrictionSite\Remove_ResSite.cpp(193,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Remove_RestrictionSite\Remove_ResSite.cpp(240,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Remove_RestrictionSite\Remove_ResSite.cpp(249,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Remove_RestrictionSite\Remove_ResSite.cpp(253,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Remove_RestrictionSite\Remove_ResSite.cpp(260,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  utils.cpp
+E:\ADO_rebuild\utils\utils.cpp(8,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(50,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(51,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(78,83): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(82,90): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(138,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+E:\ADO_rebuild\Reverse_Translate\main.cpp(57,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Reverse_Translate\main.cpp(58,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Reverse_Translate\main.cpp(93,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Reverse_Translate\main.cpp(101,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Reverse_Translate\main.cpp(20,6): warning C4101: 'pos': unreferenced local variable
+E:\ADO_rebuild\Reverse_Translate\main.cpp(129,22): warning C4101: 'gm': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1704 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Reverse_Translate.vcxproj -> E:\ADO_rebuild\Reverse_Translate\x64\Release\Reverse_Translate.exe
