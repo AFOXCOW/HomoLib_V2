@@ -1,0 +1,33 @@
+﻿  MSA.cpp
+E:\ADO_rebuild\MSA\MSA.cpp(12,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(14,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(25,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(85,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(91,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(261,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\MSA\MSA.cpp(267,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  utils.cpp
+E:\ADO_rebuild\utils\utils.cpp(8,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(50,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(51,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(78,83): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(82,90): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\utils\utils.cpp(138,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+E:\ADO_rebuild\FragmentCut\main.cpp(86,61): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\FragmentCut\main.cpp(88,39): warning C4267: '/=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\FragmentCut\main.cpp(89,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\FragmentCut\main.cpp(90,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\FragmentCut\main.cpp(118,64): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\ADO_rebuild\FragmentCut\main.cpp(128,42): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\ADO_rebuild\FragmentCut\main.cpp(185,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\ADO_rebuild\FragmentCut\main.cpp(208,22): warning C4101: 'gm': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 873 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FragmentCut.vcxproj -> E:\ADO_rebuild\FragmentCut\x64\Release\FragmentCut.exe

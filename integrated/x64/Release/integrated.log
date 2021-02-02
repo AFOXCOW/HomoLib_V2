@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\ADO_rebuild\integrated\main.cpp(17,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 480 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  integrated.vcxproj -> E:\ADO_rebuild\integrated\x64\Release\integrated.exe
