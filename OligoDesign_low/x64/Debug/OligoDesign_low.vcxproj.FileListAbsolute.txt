@@ -1,0 +1,2 @@
+E:\ADO_rebuild\OligoDesign_low\x64\Debug\OligoDesign_low.exe
+E:\ADO_rebuild\OligoDesign_low\x64\Debug\OligoDesign_low.pdb

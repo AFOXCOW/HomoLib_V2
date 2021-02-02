@@ -1,0 +1,12 @@
+﻿  MSA.cpp
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(5,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(7,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(20,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(25,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(26,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(44,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(69,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(75,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(233,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bioinfo\source\repos\MSA\MSA.cpp(239,71): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OligoDesign.vcxproj -> C:\Users\bioinfo\source\repos\OligoDesign\x64\Debug\OligoDesign.exe

@@ -1,0 +1,2 @@
+C:\Users\bioinfo\source\repos\OligoDesign\x64\Debug\OligoDesign.exe
+C:\Users\bioinfo\source\repos\OligoDesign\x64\Debug\OligoDesign.pdb

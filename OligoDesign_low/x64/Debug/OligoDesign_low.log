@@ -1,0 +1,19 @@
+﻿  Source.cpp
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(58,41): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(82,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(91,50): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(102,70): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(121,45): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(129,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(148,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(188,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(240,22): warning C4101: 'gm': unreferenced local variable
+  OligoDesign_low.vcxproj -> E:\ADO_rebuild\OligoDesign_low\x64\Debug\OligoDesign_low.exe
