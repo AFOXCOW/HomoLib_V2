@@ -21,10 +21,10 @@ E:\ADO_rebuild\OligoDesign_low\Source.cpp(33,50): warning C4267: 'argument': con
           [
               _Ty=int
           ]
-E:\ADO_rebuild\OligoDesign_low\Source.cpp(44,70): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
-E:\ADO_rebuild\OligoDesign_low\Source.cpp(69,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-E:\ADO_rebuild\OligoDesign_low\Source.cpp(129,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-E:\ADO_rebuild\OligoDesign_low\Source.cpp(181,22): warning C4101: 'gm': unreferenced local variable
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(50,70): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(80,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(140,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\ADO_rebuild\OligoDesign_low\Source.cpp(192,22): warning C4101: 'gm': unreferenced local variable
   Generating code
   Previous IPDB not found, fall back to full compilation.
   All 956 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.

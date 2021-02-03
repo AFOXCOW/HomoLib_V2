@@ -34,7 +34,7 @@ int FindCutSite(vector<string> Aligned_Sequences, int min_length, int max_length
 	//more length restriction on minlength
 	vector<int> cutRange = { Find_length_index_forward_all(Aligned_Sequences,0,min_length+10) ,Find_length_index_forward_one(Aligned_Sequences,0,max_length) };
 	if (cutRange[0] >= cutRange[1]) {
-		warn_flag = 3;
+		warn_flag = 2;
 		return warn_flag;
 	}
 	int score = 0;

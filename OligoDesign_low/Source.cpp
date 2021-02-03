@@ -33,8 +33,14 @@ bool FindCutSite(vector<string> Aligned_Sequences, int min_length, int max_lengt
 	reversecut.push_back(Aligned_Sequences[0].size());
 	//more length restriction on minlength
 	vector<int> cutRange = { Find_length_index_forward_all(Aligned_Sequences,0,min_length + 10) ,Find_length_index_forward_one(Aligned_Sequences,0,max_length) };
+	
+	if (cutRange[1] - cutRange[0] < 1) {
+		warn_flag = true;
+		cutRange[0] = cutRange[1] - (max_length - min_length);
+	}
+
 	int score = 0;
-	int best_score = 0;
+	int best_score = -1000000;
 	int best_site = -1;
 	//find forward oligo cut site.
 	while (true) {
@@ -50,11 +56,16 @@ bool FindCutSite(vector<string> Aligned_Sequences, int min_length, int max_lengt
 			score = 0;
 		}
 		cut.push_back(best_site);
+		/*
+		if (best_site == -1) {
+			return warn_flag;
+		}
+		*/
 		cutRange[0] = Find_length_index_forward_all(Aligned_Sequences, best_site, min_length + 10);
 		cutRange[1] = Find_length_index_forward_one(Aligned_Sequences, best_site, max_length);
 		//clear
 		score = 0;
-		best_score = 0;
+		best_score = -1000000;
 		best_site = -1;
 		if (cutRange[0] == -1) {
 			break;
