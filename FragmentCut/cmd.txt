@@ -1,0 +1,1 @@
+FragmentCut.exe "929517411@qq.com" "tangrui" "300" "600" "./dirname/tangrui_ReverseTranslate_resultGeneSequences.fasta" "30" "dirname" "CGAGAAGACGATAAG" "GGAGAGGTCTTCCGT" "1"

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>"929517411@qq.com" "tr" "300" "600" "./5f1ce9f4347c7/tr_ReverseTranslate_resultGeneSequences.fasta" "30" "5f1ce9f4347c7"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>"929517411@qq.com" "tr" "300" "600" "./dirname/tr_ReverseTranslate_resultGeneSequences.FASTA" "30" "dirname" "CGAGAAGACGATAAG" "GGAGAGGTCTTCCGT" "1"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>
