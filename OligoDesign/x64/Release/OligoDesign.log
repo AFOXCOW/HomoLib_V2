@@ -1,0 +1,34 @@
+﻿  MSA.cpp
+D:\HomoLib_V2\MSA\MSA.cpp(12,64): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\MSA\MSA.cpp(14,48): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\MSA\MSA.cpp(25,54): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\MSA\MSA.cpp(85,71): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\MSA\MSA.cpp(91,71): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\MSA\MSA.cpp(261,71): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\MSA\MSA.cpp(267,71): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  utils.cpp
+D:\HomoLib_V2\utils\utils.cpp(8,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\utils\utils.cpp(50,47): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\utils\utils.cpp(51,50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\utils\utils.cpp(78,83): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\utils\utils.cpp(82,90): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\utils\utils.cpp(138,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\utils\utils.cpp(210,37): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\utils\utils.cpp(224,38): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\HomoLib_V2\OligoDesign\main.cpp(33,50): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\HomoLib_V2\OligoDesign\main.cpp(48,70): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\HomoLib_V2\OligoDesign\main.cpp(79,108): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\OligoDesign\main.cpp(80,108): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\OligoDesign\main.cpp(93,70): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\HomoLib_V2\OligoDesign\main.cpp(193,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\HomoLib_V2\OligoDesign\main.cpp(268,22): warning C4101: “gm”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 996 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  OligoDesign.vcxproj -> D:\HomoLib_V2\OligoDesign\x64\Release\OligoDesign.exe

@@ -1,0 +1,4 @@
+C:\Users\bioinfo\source\repos\OligoDesign\x64\Release\OligoDesign.exe
+F:\ADO_rebuild\OligoDesign\x64\Release\OligoDesign.exe
+E:\ADO_rebuild\OligoDesign\x64\Release\OligoDesign.exe
+D:\HomoLib_V2\OligoDesign\x64\Release\OligoDesign.exe

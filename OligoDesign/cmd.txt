@@ -1,0 +1,2 @@
+OligoDesign.exe "929517411@qq.com" "tangrui" "20" "90" "./dirname/tangrui_FragCut_fragment1.fasta" "dirname" "1" "20" "0" "CACAGGAGTCCTCAC" "CTAGCGACTCCTTGG" "1"
+OligoDesign.exe "929517411@qq.com" "tangrui" "20" "90" "./dirname/tangrui_FragCut_fragment2.fasta" "dirname" "2" "20" "0" "CACAGGAGTCCTCAC" "CTAGCGACTCCTTGG" "1"
