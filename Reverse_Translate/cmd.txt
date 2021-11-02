@@ -1,0 +1,1 @@
+Reverse_Translate.exe "929517411@qq.com" "tangrui" "" "./dirname/trProteinSequence.txt" "dirname" "GAGTC|GACTC|GAAGAC|GTCTTC|GCTAGC|CTCGAG" "0.1" "./E_coli.txt" "1" "AAGTCAGTCGCTAGC" "CTGAGATCACTCGAG" "1"

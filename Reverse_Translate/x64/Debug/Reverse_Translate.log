@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\ADO_rebuild\Reverse_Translate\main.cpp(54,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Reverse_Translate\main.cpp(55,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Reverse_Translate\main.cpp(84,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Reverse_Translate\main.cpp(92,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\ADO_rebuild\Reverse_Translate\main.cpp(19,6): warning C4101: 'pos': unreferenced local variable
+E:\ADO_rebuild\Reverse_Translate\main.cpp(115,22): warning C4101: 'gm': unreferenced local variable
+  Reverse_Translate.vcxproj -> E:\ADO_rebuild\Reverse_Translate\x64\Debug\Reverse_Translate.exe
