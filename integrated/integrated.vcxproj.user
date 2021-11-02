@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments> "929517411@qq.com" "tangrui" "" "./5f8168b4eae12/tangruiProteinSequence.txt" "5f8168b4eae12" "GAGTC|GACTC|GAAGAC|GTCTTC|GCTAGC|CTCGAG" "0.1" "./E_coli.txt" "1" "AAGTCAGTCGCTAGC" "CTGAGATCACTCGAG" "300" "600" "30" "CGAGAAGACGATAAG" "GGAGAGGTCTTCCGT" "20" "90" "20" "0" "CACAGGAGTCCTCAC" "CTAGCGACTCCTTGG"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

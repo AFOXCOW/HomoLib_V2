@@ -1,0 +1,66 @@
+
+
+In the 1-th Iteration:
+We Will Align:
+Sequence-7  
+Sequence-8  
+
+
+In the 2-th Iteration:
+We Will Align:
+Sequence-1  
+Sequence-4  
+
+
+In the 3-th Iteration:
+We Will Align:
+Sequence-5  
+Sequence-7  Sequence-8  
+
+
+In the 4-th Iteration:
+We Will Align:
+Sequence-2  
+Sequence-3  
+
+
+In the 5-th Iteration:
+We Will Align:
+Sequence-1  Sequence-4  
+Sequence-5  Sequence-7  Sequence-8  
+
+
+In the 6-th Iteration:
+We Will Align:
+Sequence-9  
+Sequence-2  Sequence-3  
+
+
+In the 7-th Iteration:
+We Will Align:
+Sequence-0  
+Sequence-6  
+
+
+In the 8-th Iteration:
+We Will Align:
+Sequence-2  Sequence-3  Sequence-9  
+Sequence-0  Sequence-6  
+
+
+In the 9-th Iteration:
+We Will Align:
+Sequence-1  Sequence-4  Sequence-5  Sequence-7  Sequence-8  
+Sequence-0  Sequence-2  Sequence-3  Sequence-6  Sequence-9  
+Convert Protein to DNA.
+Remove Restriction Site
+Restriction Site Count: 1
+Restriction Site Count: 1
+Restriction Site Count: 2
+Restriction Site Count: 2
+Restriction Site Count: 1
+Restriction Site Count: 1
+Restriction Site Count: 1
+Restriction Site Count: 1
+Restriction Site Count: 1
+Restriction Site Count: 1
