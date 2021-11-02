@@ -1,0 +1,11 @@
+﻿  Source.cpp
+D:\HomoLib_V2\OligoDesign_low\Source.cpp(33,50): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\HomoLib_V2\OligoDesign_low\Source.cpp(50,70): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\HomoLib_V2\OligoDesign_low\Source.cpp(80,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\HomoLib_V2\OligoDesign_low\Source.cpp(146,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\HomoLib_V2\OligoDesign_low\Source.cpp(198,22): warning C4101: “gm”: 未引用的局部变量
+  OligoDesign_low.vcxproj -> D:\HomoLib_V2\OligoDesign_low\x64\Debug\OligoDesign_low.exe

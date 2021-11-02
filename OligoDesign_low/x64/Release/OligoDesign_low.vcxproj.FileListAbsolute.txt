@@ -1,0 +1,2 @@
+E:\ADO_rebuild\OligoDesign_low\x64\Release\OligoDesign_low.exe
+D:\HomoLib_V2\OligoDesign_low\x64\Release\OligoDesign_low.exe
